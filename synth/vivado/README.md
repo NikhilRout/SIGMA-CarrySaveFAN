@@ -13,5 +13,5 @@ Max Path Delay: 10ns
 | RedTreeFAN |  |  |  |
 | CarrySaveFAN | -1.443 | -94.021 | 1565 |
 
-![RedTee_Imp](synth\vivado\img\RedTree_Imp.png "RedTree Implementation Report")
-![CarrySaveFAN_Imp](synth\vivado\img\CarrySaveFAN_Imp.png "CarrySaveFAN Implementation Report")
+![RedTee_Imp](img/RedTree_Imp.png "RedTree Implementation Report")
+![CarrySaveFAN_Imp](img/CarrySaveFAN_Imp.png "CarrySaveFAN Implementation Report")
