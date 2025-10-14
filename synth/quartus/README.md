@@ -13,4 +13,4 @@ Max Path Delay: 10ns
 | RedTreeFAN |  |  |  |  |
 | CarrySaveFAN | -15.243 | -14.037 | -4.39 | 863 |
 
-![CarrySaveFAN_RTL_Viewer](synth\quartus\img\CarrySaveFAN_RTL_Viewer.png "CarrySaveFAN_RTL_Viewer")
+![CarrySaveFAN_RTL_Viewer](img/CarrySaveFAN_RTL_Viewer.png "CarrySaveFAN_RTL_Viewer")
